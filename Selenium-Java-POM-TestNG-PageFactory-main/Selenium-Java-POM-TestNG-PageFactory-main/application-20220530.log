@@ -1,0 +1,12 @@
+2022-05-30 14:45:17.836 [main] INFO  quickstart.employer.EmployerLogin -  UserName read from excel
+2022-05-30 14:45:17.977 [main] INFO  quickstart.employer.EmployerLogin - Password read from excel
+2022-05-30 14:45:18.063 [main] INFO  quickstart.employer.EmployerLogin - Next button clicked
+2022-05-30 14:45:19.160 [main] INFO  quickstart.employer.EmployerLogin - Jobseeker button clicked
+2022-05-30 14:45:21.320 [main] INFO  quickstart.employer.EmployerLogin - Create Job button clicked
+2022-05-30 14:45:22.517 [main] INFO  quickstart.employer.EmployerLogin - jobTitle read from excel
+2022-05-30 14:48:27.741 [main] INFO  quickstart.employer.EmployerLogin -  UserName read from excel
+2022-05-30 14:48:27.932 [main] INFO  quickstart.employer.EmployerLogin - Password read from excel
+2022-05-30 14:48:28.015 [main] INFO  quickstart.employer.EmployerLogin - Next button clicked
+2022-05-30 14:48:29.120 [main] INFO  quickstart.employer.EmployerLogin - Jobseeker button clicked
+2022-05-30 14:48:31.254 [main] INFO  quickstart.employer.EmployerLogin - Create Job button clicked
+2022-05-30 14:48:32.390 [main] INFO  quickstart.employer.EmployerLogin - jobTitle read from excel
