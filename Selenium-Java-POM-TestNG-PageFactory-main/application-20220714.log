@@ -1,5 +1,0 @@
-2022-07-14 10:59:58.893 [main] INFO  quickstart.employer.EmployerLogin -  UserName read from excel
-2022-07-14 10:59:58.898 [main] INFO  quickstart.employer.EmployerLogin - syso-- UserName read from excel
-2022-07-14 10:59:59.059 [main] INFO  quickstart.employer.EmployerLogin - Password read from excel
-2022-07-14 10:59:59.152 [main] INFO  quickstart.employer.EmployerLogin - Next button clicked
-2022-07-14 11:00:00.221 [main] INFO  quickstart.employer.EmployerLogin - Jobseeker button clicked
